@@ -1,0 +1,187 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[WARNING]	Unable to download webpage: The read operation timed out
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading API JSON
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[ERROR]	ERROR: No video formats found; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
+[DEBUG]	[youtube] Downloading just video LqZpGYhyvr4 because of --no-playlist
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading player 2f1832d2
+[ERROR]	ERROR: Signature extraction failed: Traceback (most recent call last):
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1360, in _decrypt_signature
+    func = self._extract_signature_function(
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1274, in _extract_signature_function
+    res = self._parse_sig_js(code)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\extractor\youtube.py", line 1343, in _parse_sig_js
+    initial_function = jsi.extract_function(funcname)
+  File "C:\Users\cloud\Desktop\JS\save_spotify_advance\venv\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+    raise ExtractorError('Could not find JS function %r' % funcname)
+youtube_dl.utils.ExtractorError: Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ (caused by ExtractorError("Could not find JS function 'decodeURIComponent'; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.")); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[DEBUG]	[download] Finished downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[download] Downloading playlist: JOYRYDE - AGEN WIDA audio
+[DEBUG]	[youtube:search] query "JOYRYDE - AGEN WIDA audio": Downloading page 1
+[DEBUG]	[youtube:search] playlist JOYRYDE - AGEN WIDA audio: Downloading 1 videos
+[DEBUG]	[download] Downloading video 1 of 1
+[DEBUG]	[youtube] LqZpGYhyvr4: Downloading webpage
